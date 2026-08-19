@@ -1,6 +1,4 @@
-Yes — for **the BranchPulse we actually built together**, use this `README.md`.
 
-````markdown
 # 🏦 BranchPulse AI
 
 ### Intelligent Branch Service Load and Customer Experience Optimizer
