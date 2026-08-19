@@ -1,0 +1,76 @@
+request_id,branch_name,service_type,is_complex,digital_eligible
+R0001,Central Branch,KYC Update,1,0
+R0002,Central Branch,Loan Consultation,1,0
+R0003,Central Branch,KYC Update,1,0
+R0004,Central Branch,KYC Update,1,0
+R0005,Central Branch,Cheque Status,0,1
+R0006,Central Branch,Cheque Status,0,1
+R0007,Central Branch,KYC Update,1,0
+R0008,Central Branch,Cash Deposit,0,0
+R0009,Central Branch,Balance Enquiry,0,1
+R0010,Central Branch,Cheque Status,0,1
+R0011,Central Branch,Account Statement,0,1
+R0012,Central Branch,Balance Enquiry,0,1
+R0013,Central Branch,Balance Enquiry,0,1
+R0014,Central Branch,Cash Deposit,0,0
+R0015,Central Branch,Loan Consultation,1,0
+R0016,Central Branch,KYC Update,1,0
+R0017,Central Branch,KYC Update,1,0
+R0018,Central Branch,Loan Consultation,1,0
+R0019,Central Branch,Cash Deposit,0,0
+R0020,Central Branch,Account Statement,0,1
+R0021,Central Branch,Loan Consultation,1,0
+R0022,Central Branch,Account Statement,0,1
+R0023,Central Branch,Cheque Status,0,1
+R0024,Central Branch,Cash Deposit,0,0
+R0025,Central Branch,Balance Enquiry,0,1
+R0026,Lake View Branch,Balance Enquiry,0,1
+R0027,Lake View Branch,Balance Enquiry,0,1
+R0028,Lake View Branch,Cheque Status,0,1
+R0029,Lake View Branch,Cheque Status,0,1
+R0030,Lake View Branch,Account Statement,0,1
+R0031,Lake View Branch,Balance Enquiry,0,1
+R0032,Lake View Branch,Cash Deposit,0,0
+R0033,Lake View Branch,Balance Enquiry,0,1
+R0034,Lake View Branch,Cheque Status,0,1
+R0035,Lake View Branch,Cash Deposit,0,0
+R0036,Lake View Branch,Loan Consultation,1,0
+R0037,Lake View Branch,Cheque Status,0,1
+R0038,Lake View Branch,Cheque Status,0,1
+R0039,Lake View Branch,Cheque Status,0,1
+R0040,Lake View Branch,Balance Enquiry,0,1
+R0041,Lake View Branch,Balance Enquiry,0,1
+R0042,Lake View Branch,Balance Enquiry,0,1
+R0043,Lake View Branch,KYC Update,1,0
+R0044,Lake View Branch,Balance Enquiry,0,1
+R0045,Lake View Branch,Loan Consultation,1,0
+R0046,Lake View Branch,Cheque Status,0,1
+R0047,Lake View Branch,Loan Consultation,1,0
+R0048,Lake View Branch,KYC Update,1,0
+R0049,Lake View Branch,Balance Enquiry,0,1
+R0050,Lake View Branch,Account Statement,0,1
+R0051,Tech Park Branch,Loan Consultation,1,0
+R0052,Tech Park Branch,Account Statement,0,1
+R0053,Tech Park Branch,Account Statement,0,1
+R0054,Tech Park Branch,Cheque Status,0,1
+R0055,Tech Park Branch,Balance Enquiry,0,1
+R0056,Tech Park Branch,Balance Enquiry,0,1
+R0057,Tech Park Branch,Cheque Status,0,1
+R0058,Tech Park Branch,Cash Deposit,0,0
+R0059,Tech Park Branch,Cheque Status,0,1
+R0060,Tech Park Branch,Cash Deposit,0,0
+R0061,Tech Park Branch,Balance Enquiry,0,1
+R0062,Tech Park Branch,Loan Consultation,1,0
+R0063,Tech Park Branch,KYC Update,1,0
+R0064,Tech Park Branch,Cash Deposit,0,0
+R0065,Tech Park Branch,KYC Update,1,0
+R0066,Tech Park Branch,KYC Update,1,0
+R0067,Tech Park Branch,Account Statement,0,1
+R0068,Tech Park Branch,Cheque Status,0,1
+R0069,Tech Park Branch,Loan Consultation,1,0
+R0070,Tech Park Branch,KYC Update,1,0
+R0071,Tech Park Branch,Cheque Status,0,1
+R0072,Tech Park Branch,Account Statement,0,1
+R0073,Tech Park Branch,Cash Deposit,0,0
+R0074,Tech Park Branch,Loan Consultation,1,0
+R0075,Tech Park Branch,Cheque Status,0,1

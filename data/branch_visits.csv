@@ -1,0 +1,61 @@
+visit_id,branch_name,service_time_minutes,recent_walkin
+V0001,Central Branch,10.35,1
+V0002,Central Branch,9.56,1
+V0003,Central Branch,7.97,1
+V0004,Central Branch,9.44,1
+V0005,Central Branch,7.85,1
+V0006,Central Branch,10.05,1
+V0007,Central Branch,8.94,1
+V0008,Central Branch,8.78,0
+V0009,Central Branch,8.18,1
+V0010,Central Branch,10.47,1
+V0011,Central Branch,8.81,1
+V0012,Central Branch,8.49,1
+V0013,Central Branch,8.58,1
+V0014,Central Branch,9.64,0
+V0015,Central Branch,9.44,1
+V0016,Central Branch,9.5,1
+V0017,Central Branch,9.52,0
+V0018,Central Branch,11.57,1
+V0019,Central Branch,8.51,1
+V0020,Central Branch,8.39,1
+V0021,Lake View Branch,6.6,0
+V0022,Lake View Branch,6.17,1
+V0023,Lake View Branch,6.83,0
+V0024,Lake View Branch,5.49,0
+V0025,Lake View Branch,6.19,1
+V0026,Lake View Branch,6.75,1
+V0027,Lake View Branch,5.63,1
+V0028,Lake View Branch,6.55,0
+V0029,Lake View Branch,5.21,0
+V0030,Lake View Branch,5.56,0
+V0031,Lake View Branch,5.54,0
+V0032,Lake View Branch,4.56,1
+V0033,Lake View Branch,6.58,0
+V0034,Lake View Branch,5.44,1
+V0035,Lake View Branch,6.01,0
+V0036,Lake View Branch,6.58,0
+V0037,Lake View Branch,6.54,0
+V0038,Lake View Branch,6.8,0
+V0039,Lake View Branch,5.88,0
+V0040,Lake View Branch,5.49,0
+V0041,Tech Park Branch,6.31,1
+V0042,Tech Park Branch,4.94,1
+V0043,Tech Park Branch,7.82,1
+V0044,Tech Park Branch,6.52,0
+V0045,Tech Park Branch,7.0,1
+V0046,Tech Park Branch,6.77,1
+V0047,Tech Park Branch,7.33,0
+V0048,Tech Park Branch,8.78,0
+V0049,Tech Park Branch,7.69,1
+V0050,Tech Park Branch,7.31,0
+V0051,Tech Park Branch,6.26,0
+V0052,Tech Park Branch,5.49,1
+V0053,Tech Park Branch,6.92,1
+V0054,Tech Park Branch,7.44,1
+V0055,Tech Park Branch,9.62,1
+V0056,Tech Park Branch,7.66,0
+V0057,Tech Park Branch,8.68,1
+V0058,Tech Park Branch,6.9,0
+V0059,Tech Park Branch,6.08,0
+V0060,Tech Park Branch,6.34,0

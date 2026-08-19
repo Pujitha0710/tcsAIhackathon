@@ -1,0 +1,19 @@
+employee_id,branch_name,status
+E0001,Central Branch,available
+E0002,Central Branch,available
+E0003,Central Branch,available
+E0004,Central Branch,busy
+E0005,Central Branch,busy
+E0006,Lake View Branch,available
+E0007,Lake View Branch,available
+E0008,Lake View Branch,available
+E0009,Lake View Branch,available
+E0010,Lake View Branch,available
+E0011,Lake View Branch,busy
+E0012,Lake View Branch,busy
+E0013,Tech Park Branch,available
+E0014,Tech Park Branch,available
+E0015,Tech Park Branch,available
+E0016,Tech Park Branch,available
+E0017,Tech Park Branch,busy
+E0018,Tech Park Branch,busy

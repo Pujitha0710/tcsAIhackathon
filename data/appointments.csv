@@ -1,0 +1,36 @@
+appointment_id,branch_name,within_next_hour,status
+A0001,Central Branch,1,confirmed
+A0002,Central Branch,1,confirmed
+A0003,Central Branch,1,confirmed
+A0004,Central Branch,1,confirmed
+A0005,Central Branch,1,confirmed
+A0006,Central Branch,1,confirmed
+A0007,Central Branch,1,confirmed
+A0008,Central Branch,1,confirmed
+A0009,Central Branch,1,confirmed
+A0010,Central Branch,1,confirmed
+A0011,Central Branch,1,confirmed
+A0012,Central Branch,1,confirmed
+A0013,Central Branch,0,confirmed
+A0014,Central Branch,0,confirmed
+A0015,Central Branch,0,confirmed
+A0016,Lake View Branch,1,confirmed
+A0017,Lake View Branch,1,confirmed
+A0018,Lake View Branch,1,confirmed
+A0019,Lake View Branch,1,confirmed
+A0020,Lake View Branch,1,confirmed
+A0021,Lake View Branch,0,confirmed
+A0022,Lake View Branch,0,confirmed
+A0023,Lake View Branch,0,confirmed
+A0024,Tech Park Branch,1,confirmed
+A0025,Tech Park Branch,1,confirmed
+A0026,Tech Park Branch,1,confirmed
+A0027,Tech Park Branch,1,confirmed
+A0028,Tech Park Branch,1,confirmed
+A0029,Tech Park Branch,1,confirmed
+A0030,Tech Park Branch,1,confirmed
+A0031,Tech Park Branch,1,confirmed
+A0032,Tech Park Branch,1,confirmed
+A0033,Tech Park Branch,0,confirmed
+A0034,Tech Park Branch,0,confirmed
+A0035,Tech Park Branch,0,confirmed

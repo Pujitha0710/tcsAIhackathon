@@ -1,0 +1,8 @@
+feedback_id,branch_name,rating,comment
+F0001,Central Branch,2,The queue was very long.
+F0002,Central Branch,3,"Staff were helpful, but I waited too long."
+F0003,Central Branch,2,Only a few counters seemed available.
+F0004,Lake View Branch,5,Fast service and helpful staff.
+F0005,Lake View Branch,4,The queue moved quickly.
+F0006,Tech Park Branch,3,Service was fine but the wait was noticeable.
+F0007,Tech Park Branch,4,Helpful staff and a manageable queue.
